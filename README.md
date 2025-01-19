@@ -1,4 +1,5 @@
 ## Hello, I'm MinHyeok Choi!  👋
+Let me introduce myself.
 
 <!--
 **minhyeok1232/minhyeok1232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
