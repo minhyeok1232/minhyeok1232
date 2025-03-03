@@ -3,6 +3,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhyeok1232&show_icons=true&theme=radical&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hani345)](https://solved.ac/hani345)
+### 🗃 **Project**
+<a href="https://github.com/minhyeok1232/codingTest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=minhyeok1232&repo=codingTest&theme=react&hide_border=true&show_icons=false" alt="코딩테스트(백준/프로그래머스)" /></a>
+<a href="https://github.com/minhyeok1232/UnityProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=minhyeok1232&repo=UnityProject&theme=react&hide_border=true&show_icons=false" alt="코딩테스트(백준/프로그래머스)" /></a>
 
 ### 🚀 Skills
 <p align="center">
@@ -35,10 +38,4 @@
   <a href="mailto:hani345@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
-
- 
-### 🗃 **Project**
-<a href="https://github.com/minhyeok1232/codingTest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=minhyeok1232&repo=codingTest&theme=react&hide_border=true&show_icons=false" alt="코딩테스트(백준/프로그래머스)" /></a>
-<a href="https://github.com/minhyeok1232/UnityProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=minhyeok1232&repo=UnityProject&theme=react&hide_border=true&show_icons=false" alt="코딩테스트(백준/프로그래머스)" /></a>
-
 
