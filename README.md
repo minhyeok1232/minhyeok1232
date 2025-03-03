@@ -22,7 +22,7 @@ I'm always open to discussing **game mechanics, animation systems, and engine op
 <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="링크"><img src="https://img.shields.io/badge/텍스트-색상코드?style=flat-square&logo=로고이름&logoColor=로고색"/></a>
 
-<a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
 https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
 https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
 https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white
