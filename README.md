@@ -1,11 +1,6 @@
 ## 🎮 안녕하세요, 디테일한 개발자 최민혁입니다. 👋
 
-<!--
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=KMJ&nbsp;github&nbsp;&nbsp;&fontAlign=80&fontAlignY=40&color=gradient"/>
-</p>-->
-
-  <br><br>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer+MH)](https://git.io/typing-svg)
 
 
 <br><br>
