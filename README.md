@@ -83,7 +83,7 @@
 
 <br><br>
 
-## 🌐 **BaekJoon**
+## 📖 **Coding Test**
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hani345)](https://solved.ac/hani345)
 
