@@ -18,6 +18,9 @@ Currently, I'm working on **Operation Talon**, an FPS game inspired by *Ready Or
 I'm always open to discussing **game mechanics, animation systems, and engine optimizations**.  
 📫 Feel free to reach out via GitHub or connect with me on Discord! 
 <img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
+
+<a href="링크"><img src="https://img.shields.io/badge/텍스트-색상코드?style=flat-square&logo=로고이름&logoColor=로고색"/></a>
+
 https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
 https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
