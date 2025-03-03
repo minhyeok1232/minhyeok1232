@@ -46,8 +46,8 @@
 
 ## 💻 IDE
 <p align="center">
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff"/>
 <img src = "https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"/></a>
 <img src = "https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white"/></a>
 
@@ -55,7 +55,7 @@
 
 ## 🎮 Game Engine
 <p align="center">
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=ffffff"/>
 <img src = "https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/></a>
 
 <br>
