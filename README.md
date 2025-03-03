@@ -8,20 +8,6 @@
   <h3>📚 Skill </h3>
   <br>
 
-### 🔧 Skills & Tech Stack:
-- 🎮 **Game Engines:** Unreal Engine 5, Unity  
-- 💻 **Programming:** C++, C#, Python, Java  
-- 🎨 **3D Tools:** Blender, FModel  
-- 🔥 **Specialties:** First-person animation, camera mechanics, and physics interactions  
-
-### 🚀 What I'm Working On:
-- Improving **FPS camera handling** for better player immersion  
-- Enhancing **gunplay mechanics** and animation blending  
-- Refactoring class structures for **scalability and extensibility**  
-
-### 🤝 Collaboration & Contact
-I'm always open to discussing **game mechanics, animation systems, and engine optimizations**.  
-📫 Feel free to reach out via GitHub or connect with me on Discord! 
 ### 📚 Skill
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
 <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
