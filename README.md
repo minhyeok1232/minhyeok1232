@@ -34,3 +34,6 @@ I'm always open to discussing **game mechanics, animation systems, and engine op
 <img src = "https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"/></a>
 <img src = "https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white"/></a>
 <img src = "https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
+
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MinHyeok&theme=humoris&hide_border=true&locale=ko" alt="GitHub Streak" /></a>
