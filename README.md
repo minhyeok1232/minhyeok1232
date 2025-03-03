@@ -34,8 +34,8 @@
 ## 🚀 Skills
 <p align="center">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CPlusPlus-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/CPlusPlus-00599C?style=for-the-badge&logo=cplusplus&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=ffffff"/>
 <img src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></a>
 <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
 <img src = "https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/></a>
