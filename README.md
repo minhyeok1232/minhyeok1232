@@ -4,6 +4,9 @@
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=KMJ&nbsp;github&nbsp;&nbsp;&fontAlign=80&fontAlignY=40&color=gradient"/>
 </p>-->
+<div align="center">
+  <h3>📚 Skill </h3>
+  <br>
 
 I'm a **game developer** passionate about creating immersive gameplay experiences.  
 Currently, I'm working on **Operation Talon**, an FPS game inspired by *Ready Or Not*, where I focus on **camera systems, animation, and physics** in **Unreal Engine 5**.  
