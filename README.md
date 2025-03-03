@@ -1,6 +1,6 @@
 ## 🎮 안녕하세요, 디테일한 개발자 최민혁입니다. 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Developer+MH)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Game+Engine+Developer+MH)](https://git.io/typing-svg)
 
 
 <br><br>
