@@ -4,7 +4,6 @@
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=KMJ&nbsp;github&nbsp;&nbsp;&fontAlign=80&fontAlignY=40&color=gradient"/>
 </p>-->
-<div align="center">
   <h3>📚 Skill </h3>
   <br>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
