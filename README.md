@@ -17,7 +17,7 @@ Currently, I'm working on **Operation Talon**, an FPS game inspired by *Ready Or
 ### 🤝 Collaboration & Contact
 I'm always open to discussing **game mechanics, animation systems, and engine optimizations**.  
 📫 Feel free to reach out via GitHub or connect with me on Discord! 
-
+### 📚 Skill
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
 <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
 <img src = "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
