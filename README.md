@@ -41,8 +41,8 @@
 <img src = "https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/></a>
 
 <br>
-<img src="https://img.shields.io/badge/DirectX11-76B900?style=flat-square&logo=nvidia&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Win32API-0078D4?style=flat-square&logo=windows11&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/DirectX11-76B900?style=for-the-badge&logo=nvidia&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/Win32API-0078D4?style=for-the-badge&logo=windows11&logoColor=ffffff"/>
 
 ## 💻 IDE
 <p align="center">
