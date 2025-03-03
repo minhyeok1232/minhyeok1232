@@ -20,7 +20,7 @@ I'm always open to discussing **game mechanics, animation systems, and engine op
 <img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
 
 <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-
+<a href="링크"><img src="https://img.shields.io/badge/텍스트-색상코드?style=flat-square&logo=로고이름&logoColor=로고색"/></a>
 
 https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
