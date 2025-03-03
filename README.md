@@ -1,4 +1,4 @@
-## Hello, I'm MinHyeok Choi!  👋
+## 안녕하세요, 디테일한 개발자 최민혁 입니다.  👋
 Let me introduce myself.
 <img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
 
