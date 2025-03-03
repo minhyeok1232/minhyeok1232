@@ -31,6 +31,15 @@
 ## 📈 **GitHub Stats**
 <!-- STATS CARD & TOP LANGUAGE CARD -->
 
+<p align="center">
+    <!-- STATS CARD -->
+    <img src="https://github-readme-stats.vercel.app/api?username=JoSihun&show_icons=true&theme=ambient_gradient" alt="GitHub Stats">
+</p>
+
+<p align="center">
+    <!-- TOP LANGUAGE CARD -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoSihun&layout=compact&theme=ambient_gradient&hide=c%23,jupyter%20notebook" alt="Top Languages">
+</p>
 
 
 
