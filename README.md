@@ -5,8 +5,8 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hani345)](https://solved.ac/hani345)
 ### 🗃 **Project**
 <a href="https://github.com/minhyeok1232/codingTest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=minhyeok1232&repo=codingTest&theme=react&hide_border=true&show_icons=false" alt="코딩테스트(백준/프로그래머스)" /></a>
-<a href="https://github.com/minhyeok1232/UnityProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=minhyeok1232&repo=UnityProject&theme=react&hide_border=true&show_icons=false" alt="코딩테스트(백준/프로그래머스)" /></a>
-
+<a href="https://github.com/minhyeok1232/UnityProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=minhyeok1232&repo=UnityProject&theme=react&hide_border=true&show_icons=false/></a>
+<a href="https://github.com/minhyeok1232/ISAAC_Direct2D"><img src="https://github-readme-stats.vercel.app/api/pin/?username=minhyeok1232&repo=ISAAC_Direct2D&theme=react&hide_border=true&show_icons=false/></a>
 ### 🚀 Skills
 <p align="center">
 <img src = "https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/></a>
