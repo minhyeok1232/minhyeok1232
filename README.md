@@ -31,29 +31,29 @@
 
 ## 🎮 Game Engine
 <p align="center">
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=ffffff"/>
-<img src = "https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=ffffff"/>
+<img src = "https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white"/></a>
 
 <br>
 
 ## 🗂️ Database
 <p align="center">
-<img src = "https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/></a>
-<img src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+<img src = "https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"/></a>
+<img src = "https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/></a>
 
 <br>
 
 ## 🛠️ Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <a href="https://github.com/minhyeok1232"><img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <a href="https://www.notion.so/e0c534ed007b4a018043b14a7a079ebf"><img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" alt="Notion">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" alt="VS Code">
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <a href="https://github.com/minhyeok1232"><img src="https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://www.notion.so/e0c534ed007b4a018043b14a7a079ebf"><img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=flat-square&logo=notion&logoColor=black" alt="Notion">
+  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=flat-square&logo=visual-studio-code&logoColor=22ABF3" alt="VS Code">
 
 ## 📫 Contact Me
 <p align="center">
-  <a href="mailto:hani345@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:hani345@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <br>
