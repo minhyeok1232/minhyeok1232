@@ -46,8 +46,9 @@
 <img src = "https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/></a>
 <img src = "https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"/></a>
 
-
+<br><br>
 ## 🚀 IDE
+<p align="center">
 <img src = "https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/></a>
 <img src = "https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"/></a>
 <img src = "https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white"/></a>
