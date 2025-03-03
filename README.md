@@ -15,7 +15,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhyeok1232&theme=radical&hide=php,html,Jupyter%20Notebook)
 
 ![](./profile-3d-contrib/profile-night-green.svg)
-#
 
 <br><br>
 ## 🚀 Skills
