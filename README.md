@@ -47,6 +47,6 @@ I'm always open to discussing **game mechanics, animation systems, and engine op
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MinHyeok&theme=humoris&hide_border=true&locale=ko" alt="GitHub Streak" /></a>
 
 <br>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhyeok1232)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hani345)](https://solved.ac/hani345)
