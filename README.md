@@ -81,7 +81,9 @@
   <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-## 🌐**BaekJoon**
+<br><br>
+
+## 🌐 **BaekJoon**
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hani345)](https://solved.ac/hani345)
 
