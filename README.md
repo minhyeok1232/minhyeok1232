@@ -43,8 +43,8 @@
 <br>
 <img src="https://img.shields.io/badge/DirectX11-76B900?style=for-the-badge&logo=nvidia&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Win32API-0078D4?style=for-the-badge&logo=windows11&logoColor=ffffff"/>
-
-## 💻 IDE
+<img src="https://img.shields.io/badge/fmodel-0C322C?style=for-the-badge&logo=fmodel&logoColor=white"/>
+## 👩‍💻 IDE
 <p align="center">
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff"/>
