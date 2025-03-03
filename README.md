@@ -1,8 +1,9 @@
 ### 🎮 안녕하세요, 디테일한 개발자 최민혁입니다.
 
-### 📈 GitHub Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhyeok1232&show_icons=true&theme=radical&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhyeok1232&theme=radical&hide=php,html,Jupyter%20Notebook)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hani345)](https://solved.ac/hani345)
 
 ### 🚀 Skills
 <p align="center">
@@ -36,9 +37,6 @@
   <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-### 📖 **Coding Test**
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hani345)](https://solved.ac/hani345)
 
 ### 🗃 **Project**
 <a href="https://github.com/minhyeok1232/codingTest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=minhyeok1232&repo=codingTest&theme=react&hide_border=true&show_icons=false" alt="코딩테스트(백준/프로그래머스)" /></a>
