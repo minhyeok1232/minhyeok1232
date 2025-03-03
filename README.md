@@ -17,25 +17,16 @@
 <img src = "https://img.shields.io/badge/fmodel-0C322C?style=flat-square&logo=fmodel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=ffffff"/>
 <img src = "https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white"/></a>
-
-### 👩‍💻 IDE
-<p align="center">
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=ffffff"/>
 <img src = "https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white"/></a>
 <img src = "https://img.shields.io/badge/Rider-000000?style=flat-square&logo=Rider&logoColor=white"/></a>
-
-### 🗂️ Database
-<p align="center">
 <img src = "https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"/></a>
 <img src = "https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/></a>
-
-### 🛠️ Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <a href="https://github.com/minhyeok1232"><img src="https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  <a href="https://www.notion.so/e0c534ed007b4a018043b14a7a079ebf"><img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=flat-square&logo=notion&logoColor=black" alt="Notion">
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=flat-square&logo=visual-studio-code&logoColor=22ABF3" alt="VS Code">
+<img src="https://img.shields.io/badge/git-F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git">
+<a href="https://github.com/minhyeok1232"><img src="https://img.shields.io/badge/github-181717.svg?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+<a href="https://www.notion.so/e0c534ed007b4a018043b14a7a079ebf"><img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=flat-square&logo=notion&logoColor=black" alt="Notion">
+<img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=flat-square&logo=visual-studio-code&logoColor=22ABF3" alt="VS Code">
 
 ### 📫 Contact Me
 <p align="center">
