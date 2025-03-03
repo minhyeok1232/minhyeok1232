@@ -17,3 +17,5 @@ Currently, I'm working on **Operation Talon**, an FPS game inspired by *Ready Or
 ### 🤝 Collaboration & Contact
 I'm always open to discussing **game mechanics, animation systems, and engine optimizations**.  
 📫 Feel free to reach out via GitHub or connect with me on Discord! 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 아이디)](https://github.com/anuraghazra/github-readme-stats)
