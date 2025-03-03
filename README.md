@@ -25,7 +25,7 @@
 <img src = "https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/></a>
 
   <br><br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MinHyeok&theme=humoris&hide_border=true&locale=ko" alt="GitHub Streak" /></a>
+
 
 <br><br>
 
