@@ -1,4 +1,5 @@
-## 🎮 안녕하세요, 디테일한 개발자 최민혁입니다. 👋
+## 🎮 안녕하세요, 디테일한 개발자 최민혁입니다.
+
 <br><br>
 ## 📈 GitHub Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhyeok1232&show_icons=true&theme=radical&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
@@ -9,24 +10,22 @@
 <br><br>
 ## 🚀 Skills
 <p align="center">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CPlusPlus-00599C?style=for-the-badge&logo=cplusplus&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=ffffff"/>
-<img src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/></a>
-<img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
-<img src = "https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/></a>
-
-<br>
-<img src="https://img.shields.io/badge/DirectX11-76B900?style=for-the-badge&logo=nvidia&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Win32API-0078D4?style=for-the-badge&logo=windows11&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/fmodel-0C322C?style=for-the-badge&logo=fmodel&logoColor=white"/>
+<img src = "https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/></a>
+<img src = "https://img.shields.io/badge/CPlusPlus-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff"/>
+<img src = "https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=ffffff"/>
+<img src = "https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/></a>
+<img src = "https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></a>
+<img src = "https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white"/></a>
+<img src = "https://img.shields.io/badge/DirectX11-76B900?style=flat-square&logo=nvidia&logoColor=ffffff"/>
+<img src = "https://img.shields.io/badge/Win32API-0078D4?style=flat-square&logo=windows11&logoColor=ffffff"/>
+<img src = "https://img.shields.io/badge/fmodel-0C322C?style=flat-square&logo=fmodel&logoColor=white"/>
 
 ## 👩‍💻 IDE
 <p align="center">
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff"/>
-<img src = "https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"/></a>
-<img src = "https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=ffffff"/>
+<img src = "https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white"/></a>
+<img src = "https://img.shields.io/badge/Rider-000000?style=flat-square&logo=Rider&logoColor=white"/></a>
 
 <br>
 
