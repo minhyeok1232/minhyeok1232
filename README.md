@@ -4,7 +4,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhyeok1232&show_icons=true&theme=radical&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhyeok1232&theme=radical&hide=php,html,Jupyter%20Notebook)
 
-<br><br>
 ### 🚀 Skills
 <p align="center">
 <img src = "https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/></a>
@@ -26,14 +25,10 @@
 <img src = "https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white"/></a>
 <img src = "https://img.shields.io/badge/Rider-000000?style=flat-square&logo=Rider&logoColor=white"/></a>
 
-<br>
-
 ### 🗂️ Database
 <p align="center">
 <img src = "https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"/></a>
 <img src = "https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/></a>
-
-<br>
 
 ### 🛠️ Tools
 <p align="center">
@@ -48,13 +43,10 @@
   <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-<br>
-
 ### 📖 **Coding Test**
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hani345)](https://solved.ac/hani345)
 
-<br><br>
 ### 🗃 **Project**
 <a href="https://github.com/minhyeok1232/codingTest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=minhyeok1232&repo=codingTest&theme=react&hide_border=true&show_icons=false" alt="코딩테스트(백준/프로그래머스)" /></a>
 <a href="https://github.com/minhyeok1232/UnityProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=minhyeok1232&repo=UnityProject&theme=react&hide_border=true&show_icons=false" alt="코딩테스트(백준/프로그래머스)" /></a>
