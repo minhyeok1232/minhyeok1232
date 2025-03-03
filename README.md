@@ -1,5 +1,10 @@
 ## 🎮 안녕하세요, 디테일한 개발자 최민혁입니다. 👋
 
+<!--
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=KMJ&nbsp;github&nbsp;&nbsp;&fontAlign=80&fontAlignY=40&color=gradient"/>
+</p>-->
+
 I'm a **game developer** passionate about creating immersive gameplay experiences.  
 Currently, I'm working on **Operation Talon**, an FPS game inspired by *Ready Or Not*, where I focus on **camera systems, animation, and physics** in **Unreal Engine 5**.  
 
