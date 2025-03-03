@@ -1,18 +1,19 @@
-## Hello, I'm MinHyeok Choi!  👋
-Let me introduce myself.
-<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
+## 🎮 Hello, I'm Minhyeok Choi! 👋
 
-<!--
-**minhyeok1232/minhyeok1232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **game developer** passionate about creating immersive gameplay experiences.  
+Currently, I'm working on **Operation Talon**, an FPS game inspired by *Ready Or Not*, where I focus on **camera systems, animation, and physics** in **Unreal Engine 5**.  
 
-Here are some ideas to get you started:
+### 🔧 Skills & Tech Stack:
+- 🎮 **Game Engines:** Unreal Engine 5, Unity  
+- 💻 **Programming:** C++, C#, Python, Java  
+- 🎨 **3D Tools:** Blender, FModel  
+- 🔥 **Specialties:** First-person animation, camera mechanics, and physics interactions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On:
+- Improving **FPS camera handling** for better player immersion  
+- Enhancing **gunplay mechanics** and animation blending  
+- Refactoring class structures for **scalability and extensibility**  
+
+### 🤝 Collaboration & Contact
+I'm always open to discussing **game mechanics, animation systems, and engine optimizations**.  
+📫 Feel free to reach out via GitHub or connect with me on Discord! 
