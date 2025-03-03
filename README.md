@@ -1,8 +1,6 @@
 ### 🎮 안녕하세요, 디테일한 개발자 최민혁입니다.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhyeok1232&show_icons=true&theme=radical&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhyeok1232&theme=radical&hide=php,html,Jupyter%20Notebook)
-[![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hani345)](https://solved.ac/hani345)
 
 ### 🚀 Skills
