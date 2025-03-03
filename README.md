@@ -29,7 +29,7 @@
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fminhyeok1232&count_bg=%2322ADF6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Today%27s%20Visitors&edge_flat=true" alt="Today's Visitors" style="width: 20%">
 </p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhyeok1232&show_icons=true&theme=radical&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhyeok2487&theme=radical&hide=php,html,Jupyter%20Notebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhyeok1232&theme=radical&hide=php,html,Jupyter%20Notebook)
 ![](./profile-3d-contrib/profile-night-green.svg)
 <br><br>
 ## 🚀 Skills
