@@ -7,7 +7,7 @@
 ### 🚀 Skills
 <p align="center">
 <img src = "https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/></a>
-<img src = "https://img.shields.io/badge/CPlusPlus-00599C?style=flat-square&logo=c++&logoColor=ffffff"/>
+<img src = "https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=ffffff"/>
 <img src = "https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=csharp&logoColor=ffffff"/>
 <img src = "https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/></a>
 <img src = "https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/></a>
