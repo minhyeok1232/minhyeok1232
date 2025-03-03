@@ -8,9 +8,6 @@
   <h3>📚 Skill </h3>
   <br>
 
-I'm a **game developer** passionate about creating immersive gameplay experiences.  
-Currently, I'm working on **Operation Talon**, an FPS game inspired by *Ready Or Not*, where I focus on **camera systems, animation, and physics** in **Unreal Engine 5**.  
-
 ### 🔧 Skills & Tech Stack:
 - 🎮 **Game Engines:** Unreal Engine 5, Unity  
 - 💻 **Programming:** C++, C#, Python, Java  
@@ -47,7 +44,6 @@ I'm always open to discussing **game mechanics, animation systems, and engine op
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MinHyeok&theme=humoris&hide_border=true&locale=ko" alt="GitHub Streak" /></a>
 
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhyeok1232)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hani345)](https://solved.ac/hani345)
 
