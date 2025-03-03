@@ -44,9 +44,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhyeok1232&layout=compact&theme=ambient_gradient&hide=c%23,jupyter%20notebook" alt="Top Languages">
 </p>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhyeok1232)](https://github.com/anuraghazra/github-readme-stats)
-
 <br><br>
 ## **BaekJoon**
 [![Solved.ac
