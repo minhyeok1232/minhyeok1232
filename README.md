@@ -50,3 +50,18 @@ I'm always open to discussing **game mechanics, animation systems, and engine op
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhyeok1232)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hani345)](https://solved.ac/hani345)
+
+
+</div>
+<div align="center">
+    <h3> :pushpin: Project</h3> 
+    <br>
+
+    <a href="https://github.com/minhyeok1232/codingTest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rorrxr&repo=codingTest&theme=react&hide_border=true&show_icons=false" alt="코딩테스트(백준/프로그래머스)" /></a>
+
+       
+</div>
+<br><br>
+<p align='center'>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Frorrxr&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitor&edge_flat=false"/>
+</p>
