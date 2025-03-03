@@ -21,6 +21,7 @@
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=ffffff"/>
 <img src = "https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white"/></a>
+<br>
 <img src = "https://img.shields.io/badge/Rider-000000?style=flat-square&logo=Rider&logoColor=white"/></a>
 <img src = "https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white"/></a>
 <img src = "https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white"/></a>
