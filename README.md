@@ -1,8 +1,4 @@
 ## 🎮 안녕하세요, 디테일한 개발자 최민혁입니다. 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Game+Engine+Developer!)](https://git.io/typing-svg)
-
-
 <br><br>
 ## 📈 GitHub Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhyeok1232&show_icons=true&theme=radical&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
