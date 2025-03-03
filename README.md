@@ -30,7 +30,7 @@
 </p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minhyeok1232&show_icons=true&theme=radical&show=discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhyeok2487&theme=radical&hide=php,html,Jupyter%20Notebook)
-
+![](./profile-3d-contrib/profile-night-green.svg)
 <br><br>
 ## 🚀 Skills
 <p align="center">
