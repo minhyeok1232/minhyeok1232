@@ -25,6 +25,11 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhyeok1232&layout=compact&theme=ambient_gradient&hide=c%23,jupyter%20notebook" alt="Top Languages">
 </p>
 
+<p align="center">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoSihun&count_bg=%2322ADF6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Today%27s%20Visitors&edge_flat=true" alt="Today's Visitors" style="width: 20%">
+</p>
+
+
 <br><br>
 ## 🚀 Skills
 
