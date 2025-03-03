@@ -17,6 +17,8 @@
 <img src = "https://img.shields.io/badge/DirectX11-76B900?style=flat-square&logo=nvidia&logoColor=ffffff"/>
 <img src = "https://img.shields.io/badge/Win32API-0078D4?style=flat-square&logo=windows11&logoColor=ffffff"/>
 <img src = "https://img.shields.io/badge/fmodel-0C322C?style=flat-square&logo=fmodel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=ffffff"/>
+<img src = "https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white"/></a>
 
 ## 👩‍💻 IDE
 <p align="center">
@@ -24,13 +26,6 @@
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=ffffff"/>
 <img src = "https://img.shields.io/badge/CLion-000000?style=flat-square&logo=clion&logoColor=white"/></a>
 <img src = "https://img.shields.io/badge/Rider-000000?style=flat-square&logo=Rider&logoColor=white"/></a>
-
-<br>
-
-## 🎮 Game Engine
-<p align="center">
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=ffffff"/>
-<img src = "https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white"/></a>
 
 <br>
 
