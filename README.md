@@ -9,6 +9,7 @@
 <a href="https://github.com/minhyeok1232/UC_Battle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=minhyeok1232&repo=UC_Battle&theme=react&hide_border=true&show_icons=false"/></a>
 <a href="https://github.com/minhyeok1232/UC_Rifle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=minhyeok1232&repo=UC_Rifle&theme=react&hide_border=true&show_icons=false"/></a>
 <a href="https://github.com/minhyeok1232/ISAAC_Direct2D"><img src="https://github-readme-stats.vercel.app/api/pin/?username=minhyeok1232&repo=ISAAC_Direct2D&theme=react&hide_border=true&show_icons=false"/></a>
+<a href="https://github.com/minhyeok1232/TDS_Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=minhyeok1232&repo=TDS_Project&theme=react&hide_border=true&show_icons=false"/></a>
 
 ### 🚀 Skills
 <p align="center">
