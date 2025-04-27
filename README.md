@@ -6,6 +6,7 @@
 ### 🗃 **Project**
 <a href="https://github.com/minhyeok1232/codingTest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=minhyeok1232&repo=codingTest&theme=react&hide_border=true&show_icons=false" alt="코딩테스트(백준/프로그래머스)" /></a>
 <a href="https://github.com/minhyeok1232/UnityProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=minhyeok1232&repo=UnityProject&theme=react&hide_border=true&show_icons=false"/></a>
+<a href="https://github.com/minhyeok1232/PickUpProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=minhyeok1232&repo=PickUpProject&theme=react&hide_border=true&show_icons=false"/></a>
 <a href="https://github.com/minhyeok1232/UC_Battle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=minhyeok1232&repo=UC_Battle&theme=react&hide_border=true&show_icons=false"/></a>
 <a href="https://github.com/minhyeok1232/UC_Rifle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=minhyeok1232&repo=UC_Rifle&theme=react&hide_border=true&show_icons=false"/></a>
 <a href="https://github.com/minhyeok1232/ISAAC_Direct2D"><img src="https://github-readme-stats.vercel.app/api/pin/?username=minhyeok1232&repo=ISAAC_Direct2D&theme=react&hide_border=true&show_icons=false"/></a>
